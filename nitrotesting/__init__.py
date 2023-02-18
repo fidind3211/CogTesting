@@ -1,4 +1,4 @@
-from .nitro import nitrotestingCog
+from .nitrotesting import nitrotestingCog
 
 
 def setup(bot):
